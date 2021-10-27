@@ -1570,9 +1570,9 @@
  .hover-team .team-content .title{
      border-bottom: 2px solid #d33b33;
 }
- .shop-box-inner{
+ /* .shop-box-inner{
      padding: 70px 0px;
-}
+} */
  .search-product {
      position: relative;
 }
