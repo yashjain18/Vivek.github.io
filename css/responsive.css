@@ -97,6 +97,14 @@
     .img-fluid{
         display: none;
     }
+    .copyright{
+        float: none;
+        text-align: center;
+    }
+    .credits{
+        float: none;
+        text-align: center;
+    }
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
@@ -222,6 +230,14 @@
     .col-lg-6{
         padding-top: 25px;
     }
+    .copyright{
+        float: none;
+        text-align: center;
+    }
+    .credits{
+        float: none;
+        text-align: center;
+    }
 }
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
@@ -337,6 +353,14 @@
     }
     .col-lg-6{
         padding-top: 25px;
+    }
+    .copyright{
+        float: none;
+        text-align: center;
+    }
+    .credits{
+        float: none;
+        text-align: center;
     }
 }
  
