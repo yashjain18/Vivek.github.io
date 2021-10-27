@@ -538,7 +538,8 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
         border-radius: 0px;
         padding: 0;
         width: 200px;
-        background: #fff;
+        /* background: #fff; */
+        background: #2c2c2c;
         border: solid 1px #e0e0e0;
         border-top: solid 5px;
     }
@@ -623,7 +624,8 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
         width: 100%;
         margin-bottom: 0;
         border-bottom: none;
-        color: #6f6f6f;
+        /* color: #6f6f6f; */
+        color: white;
     }
     
     nav.navbar.bootsnav.on ul.dropdown-menu.megamenu-content .content{
