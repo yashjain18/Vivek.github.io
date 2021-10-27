@@ -1032,7 +1032,7 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
     
     nav.navbar.bootsnav li.dropdown a.dropdown-toggle:before{
         font-family: 'FontAwesome';
-        content: "\f105";
+        /* content: "\f105"; */
         float: right;
         font-size: 16px;
         margin-left: 10px;
