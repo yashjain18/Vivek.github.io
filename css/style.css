@@ -575,8 +575,8 @@
      border: solid 1px #e0e0e0;
      left: auto;
 }
- .btn-cart{
-}
+ /* .btn-cart{
+} */
  .cart-list h6 a{
      font-size: 16px;
      font-weight: 700;
@@ -632,8 +632,8 @@
      transform: scaleY(1);
      color: #ffffff;
 }
- .hvr-hover{
-}
+ /* .hvr-hover{
+} */
  ul.cart-list > li.total > .btn:hover{
      color: #ffffff;
 }
