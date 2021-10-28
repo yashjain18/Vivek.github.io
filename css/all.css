@@ -495,8 +495,7 @@
 }
 
 .fa-bars:before {
-    content: "\f0c9";
-    filter: invert(1);
+    content: "\f0c9";    
 }
 
 .fa-baseball-ball:before {
