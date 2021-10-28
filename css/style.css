@@ -2473,10 +2473,19 @@
   }
   
   /* Remove extra left and right margins, due to padding */
-  .row {margin: 0 -5px;}
+  .about-row {
+      width: 99vw;
+      margin: 0 -5px;
+      display: flex;
+      -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+      justify-content: center;
+      margin-right: -15px;
+      margin-left: -15px;
+    }
   
   /* Clear floats after the columns */
-  .row:after {
+  .about-row:after {
     content: "";
     display: table;
     clear: both;
@@ -2485,10 +2494,18 @@
   /* Responsive columns */
   @media screen and (max-width: 600px) {
     .column {
-      width: 100%;
+      width: 85%;
       display: block;
       margin-bottom: 20px;
     }
+    .about-row {
+        width: 99vw;
+        margin: 0 -5px;
+        display: flex;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+        justify-content: center;       
+      }
   }
   
   /* Style the counter cards */
