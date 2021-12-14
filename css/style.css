@@ -60,7 +60,7 @@
      padding: 0 0 10px 0;
      font-weight: normal;
      line-height: 120% !important;
-     color: #1f1f1f;
+     color: white;
      margin: 0 
 }
  h1 {
@@ -156,7 +156,7 @@
      height: 32px;
      text-align: center;
      line-height: 30px;
-     background: #d33b33;
+     background: #012641;
      color: #ffffff;
      cursor: pointer;
      border: 0;
@@ -600,7 +600,7 @@
      transform: perspective(1px) translateZ(0);
      box-shadow: 0 0 1px rgba(0, 0, 0, 0);
      position: relative;
-     background: #d33b33;
+     background: #012641;
      -webkit-transition-property: color;
      transition-property: color;
      -webkit-transition-duration: 0.3s;
@@ -696,7 +696,7 @@
      height: 100vh;
 }
  .slides-navigation a {
-     background: #d33b33;
+     background:#012641;
      position: absolute;
      height: 70px;
      width: 70px;
@@ -751,8 +751,8 @@
      border: 2px solid #ffffff;
 }
  .slides-pagination a.current{
-     background: #d33b33;
-     border: 2px solid #d33b33;
+     background: #012641;
+     border: 2px solid #012641;
 }
  .cover-slides p a{
      font-size: 24px;
@@ -816,7 +816,7 @@
      color: #010101;
 }
  .title-all p{
-     color: #999999;
+     color: #fcf9f9;
      font-size: 16px;
 }
  .products-box{
@@ -829,7 +829,7 @@
      display: inline-block;
 }
  .filter-button-group button{
-     background: #d33b33;
+     background: #012641;
      color: #ffffff;
      border: none;
      cursor: pointer;
@@ -876,7 +876,7 @@
      text-transform: uppercase;
 }
  .why-text{
-     background: #f5f5f5;
+     background: #012641;
      padding: 15px;
 }
  .why-text h4{
@@ -1184,7 +1184,7 @@
 /*------------------------------------------------------------------ Footer Main -------------------------------------------------------------------*/
  .footer-main{
      padding: 70px 0px;
-     background: #202020;
+     background: #012641;
 }
  .footer-widget h4 {
      color: #ffffff;
@@ -1196,7 +1196,7 @@
      font-weight: 700;
 }
  .footer-widget h4::before {
-     border-bottom: 3px solid #d33b33;
+     border-bottom: 3px solid #4b8ba2;
      content: "";
      height: 3px;
      width: 100%;
@@ -1242,7 +1242,7 @@
      font-weight: 700;
 }
  .footer-link h4::before {
-     border-bottom: 3px solid #d33b33;
+     border-bottom: 3px solid #4b8ba2;
      content: "";
      height: 3px;
      width: 100%;
@@ -1297,7 +1297,7 @@
      font-weight: 700;
 }
  .footer-link-contact h4::before {
-     border-bottom: 3px solid #d33b33;
+     border-bottom: 3px solid #4b8ba2;
      content: "";
      height: 3px;
      width: 100%;
@@ -2413,7 +2413,7 @@
  
 #footer{
     display: block;
-    background-color: #2c2c2c;
+    background-color: #000000;
 }
 #footer .footer-bottom {
     padding-top: 30px;
