@@ -1405,9 +1405,11 @@
      text-transform: uppercase;
      font-style: italic;
      font-weight: 700;
+     color: #012641;
 }
  .about-box-main p{
      padding-bottom: 20px;
+     text-align: center;
 }
  .service-block-inner {
      padding: 15px 20px;
