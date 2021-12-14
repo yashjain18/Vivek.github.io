@@ -451,8 +451,8 @@ hr {
 
 .img-thumbnail {
     padding: .25rem;
-    background-color: #fff;
-    border: 1px solid #dee2e6;
+    background-color:#4b8ba2 ;
+    border: 1px solid #4b8ba2;
     border-radius: .25rem;
     max-width: 100%;
     height: auto
@@ -5760,7 +5760,7 @@ a.bg-danger:focus, a.bg-danger:hover, button.bg-danger:focus, button.bg-danger:h
 }
 
 .bg-light {
-    background-color: white!important
+    background-color: #012641!important
 }
 
 a.bg-light:focus, a.bg-light:hover, button.bg-light:focus, button.bg-light:hover {
