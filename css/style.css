@@ -1415,6 +1415,7 @@
      padding: 15px 20px;
      position: relative;
      margin-bottom: 30px;
+     padding-bottom: 0px;
 }
  .service-block-inner::before {
      content: "";

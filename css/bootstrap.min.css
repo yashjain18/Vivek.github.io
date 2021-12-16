@@ -1167,7 +1167,7 @@ pre code {
     .col-lg-4 {
         -ms-flex: 0 0 33.333333%;
         flex: 0 0 33.333333%;
-        max-width: 33.333333%
+        max-width: 25%
     }
     .col-lg-5 {
         -ms-flex: 0 0 41.666667%;
@@ -1209,6 +1209,10 @@ pre code {
         flex: 0 0 100%;
         max-width: 100%
     }
+    .col-lg-13 {
+        -ms-flex: 0 0 33.333333%;
+        flex: 0 0 33.333333%;
+        max-width: 33.333333%
     .order-lg-first {
         -ms-flex-order: -1;
         order: -1
