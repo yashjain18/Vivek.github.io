@@ -135,6 +135,8 @@
 }
  p{
      margin: 0px;
+     font-size: 17px
+     
 }
  .bootstrap-select .dropdown-toggle:focus{
      outline: none !important;
@@ -1193,7 +1195,6 @@
      text-transform: uppercase;
      letter-spacing: 2px;
      margin-bottom: 20px;
-     text-align: center;
      position: relative;
      font-weight: 700;
 }
@@ -1238,7 +1239,6 @@
      color: #ffffff;
      font-size: 16px;
      text-transform: uppercase;
-     text-align: center;
      letter-spacing: 2px;
      margin-bottom: 20px;
      position: relative;
@@ -1294,7 +1294,6 @@
      color: #ffffff;
      font-size: 16px;
      text-transform: uppercase;
-     text-align: center;
      letter-spacing: 2px;
      margin-bottom: 20px;
      position: relative;
@@ -1413,6 +1412,7 @@
  .about-box-main p{
      padding-bottom: 20px;
      text-align: center;
+     text-justify: inter-word;
 }
  .service-block-inner {
      padding: 15px 20px;
@@ -2524,4 +2524,9 @@
     text-align: center;
     /* background-color: #f1f1f1; */
     background-color: #012641;
+  }
+  .navbar-brand{
+    position: relative;
+    right: 50px;
+    filter:saturate(150%);
   }

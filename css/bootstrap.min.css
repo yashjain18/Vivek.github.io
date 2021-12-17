@@ -1215,10 +1215,10 @@ pre code {
         flex: 0 0 33.333333%;
         max-width: 33.333333%
     }
-    .col-lg-14 {
+    /* .col-lg-14 {
         -ms-flex: 0 0 33.333333%;
         flex: 0 0 33.333333%;
-        max-width: 30%
+        max-width: 25% */
     }
     .order-lg-first {
         -ms-flex-order: -1;
@@ -3900,6 +3900,7 @@ input[type=button].btn-block, input[type=reset].btn-block, input[type=submit].bt
         display: flex!important;
         -ms-flex-preferred-size: auto;
         flex-basis: auto
+    
     }
     .navbar-expand-lg .navbar-toggler {
         display: none
