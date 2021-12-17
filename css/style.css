@@ -1193,6 +1193,7 @@
      text-transform: uppercase;
      letter-spacing: 2px;
      margin-bottom: 20px;
+     text-align: center;
      position: relative;
      font-weight: 700;
 }
@@ -1237,6 +1238,7 @@
      color: #ffffff;
      font-size: 16px;
      text-transform: uppercase;
+     text-align: center;
      letter-spacing: 2px;
      margin-bottom: 20px;
      position: relative;
@@ -1292,6 +1294,7 @@
      color: #ffffff;
      font-size: 16px;
      text-transform: uppercase;
+     text-align: center;
      letter-spacing: 2px;
      margin-bottom: 20px;
      position: relative;
