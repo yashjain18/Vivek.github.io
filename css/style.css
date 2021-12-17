@@ -135,8 +135,7 @@
 }
  p{
      margin: 0px;
-     font-size: 17px
-     
+     font-size: 16px;
 }
  .bootstrap-select .dropdown-toggle:focus{
      outline: none !important;
@@ -1197,6 +1196,7 @@
      margin-bottom: 20px;
      position: relative;
      font-weight: 700;
+     text-align: center;
 }
  .footer-widget h4::before {
      border-bottom: 3px solid #4b8ba2;
@@ -1243,6 +1243,7 @@
      margin-bottom: 20px;
      position: relative;
      font-weight: 700;
+     text-align: center;
 }
  .footer-link h4::before {
      border-bottom: 3px solid #4b8ba2;
@@ -1281,6 +1282,7 @@
      -moz-transition: all .3s ease-in-out;
      -o-transition: all .3s ease-in-out;
      -ms-transition: all .3s ease-in-out;
+     text-align: center;
 }
  .footer-link ul li a:hover::before {
      left: 5px;
@@ -1298,6 +1300,7 @@
      margin-bottom: 20px;
      position: relative;
      font-weight: 700;
+     text-align: center;
 }
  .footer-link-contact h4::before {
      border-bottom: 3px solid #4b8ba2;
@@ -1412,7 +1415,6 @@
  .about-box-main p{
      padding-bottom: 20px;
      text-align: center;
-     text-justify: inter-word;
 }
  .service-block-inner {
      padding: 15px 20px;
@@ -2525,8 +2527,24 @@
     /* background-color: #f1f1f1; */
     background-color: #012641;
   }
+  .footer-widget{
+      position: relative;
+      right: 50%;
+  }
+  .footer-link{
+      position: relative;
+  }
+  .footer-link-contact{
+      position: relative;
+      left: 50%;
+  }
   .navbar-brand{
-    position: relative;
-    right: 50px;
-    filter:saturate(150%);
+      position: relative;
+      right: 50px;
+      filter: saturate(10)
+  }
+  #navbar-menu{
+      position: relative;
+      left: 100px;
+
   }
