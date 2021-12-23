@@ -2529,7 +2529,7 @@
     /* background-color: #f1f1f1; */
     background-color: #012641;
   }
-  .footer-widget{
+  /* .footer-widget{
       position: relative;
       right: 50%;
   }
@@ -2539,7 +2539,7 @@
   .footer-link-contact{
       position: relative;
       left: 50%;
-  }
+  } */
   .navbar-brand{
       position: relative;
       right: 70px;
@@ -2550,3 +2550,6 @@
       left: 100px;
 
   }
+  .footer-main div {
+    justify-content: space-around;
+}
