@@ -252,7 +252,7 @@
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
          border-color: #d33b33;
-         color: #ffffff;
+         color: #c9bbbb;
          border-radius: 0px;
          margin-right: 7px;
          padding-top: 6px;
