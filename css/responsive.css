@@ -110,10 +110,10 @@
         right: 70px;
         filter: saturate(10)
     }
-    #navbar-menu{
+    /* #navbar-menu{
         position: relative;
         left: 100%;
-    }
+    } */
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
@@ -373,11 +373,6 @@
     }
 }
  
-
-
-
-
-
 
 
 

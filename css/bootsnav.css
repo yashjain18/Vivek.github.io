@@ -990,6 +990,8 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
         display: inline-block;
         float: none !important;
         margin: 0 !important;
+        position: relative;
+        left: 100px;
     }
     
     nav.navbar.bootsnav .navbar-header {
