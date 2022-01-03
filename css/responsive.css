@@ -114,6 +114,7 @@
         position: relative;
         left: 100%;
     } */
+    
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
@@ -251,7 +252,7 @@
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
          border-color: #d33b33;
-         color: #010101;
+         color: #ffffff;
          border-radius: 0px;
          margin-right: 7px;
          padding-top: 6px;
@@ -371,9 +372,11 @@
         float: none;
         text-align: center;
     }
-}
- 
-
-
+     .para{
+        width: 84vw !important;
+     }
+     p{
+         font-size: 15px;
+     }
 
 
