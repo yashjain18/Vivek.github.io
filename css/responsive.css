@@ -114,7 +114,9 @@
         position: relative;
         left: 100%;
     } */
-    
+    .contact-form-right{
+        margin-left: -3vw;
+    }
 }
 /* mobile or only mobile */
  @media (max-width: 767px) {
@@ -248,6 +250,9 @@
         float: none;
         text-align: center;
     }
+    .contact-form-right{
+        margin-left: -4vw;
+    }
 }
  @media only screen and (min-width: 280px) and (max-width: 599px) {
      .navbar-light .navbar-toggler{
@@ -372,11 +377,15 @@
         float: none;
         text-align: center;
     }
-     .para{
+    .para{
         width: 84vw !important;
      }
-     p{
+    p{
          font-size: 15px;
      }
+    .contact-form-right{
+        margin-left: -5vw;
+    }
+}     
 
 
