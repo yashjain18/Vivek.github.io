@@ -767,7 +767,7 @@
  .categories-shop{
      padding: 70px 0px;
 }
- .shop-cat-box{
+.shop-cat-box{
      margin-bottom: 30px;
      position: relative;
      padding: 3px;
@@ -775,6 +775,7 @@
      border: 1px solid #010101;
      -webkit-transition: background 0.4s 0.5s;
      transition: background 0.4s 0.5s;
+    
 }
  .shop-cat-box img{
      margin: -10px 0 0 -10px;
@@ -788,6 +789,7 @@
      transform: translate3d(10px,10px,0);
      -webkit-backface-visibility: hidden;
      backface-visibility: hidden;
+     
 }
  .shop-cat-box:hover img{
      opacity: 0.6;

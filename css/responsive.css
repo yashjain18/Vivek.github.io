@@ -388,4 +388,12 @@
     }
 }     
 
+@media (min-width: 768px){
+    .shop-cat-box{
+        height: 15vw;
+    }
+    .shop-cat-box img{
+        height: 100%;
+        width: 100%;
+    }
 
