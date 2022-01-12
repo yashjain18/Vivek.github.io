@@ -386,9 +386,12 @@
     .contact-form-right{
         margin-left: -5vw;
     }
+    .row.special-list{
+        margin-left: 5vw;
+    }
 }     
 
-@media (min-width: 768px){
+@media (min-width: 1024px){
     .shop-cat-box{
         height: 15vw;
     }
@@ -397,3 +400,4 @@
         width: 100%;
     }
 
+}
